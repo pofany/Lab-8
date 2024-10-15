@@ -1,0 +1,9 @@
+.custom-tooltip .tooltip-inner {
+    background-color: white !important; /* Білий фон */
+    color: black !important;            /* Чорний текст */
+    border: 1px solid black;            /* Чорна рамка */
+}
+
+.custom-tooltip .tooltip-arrow::before {
+    border-top-color: white !important; /* Білий колір стрілки */
+}
